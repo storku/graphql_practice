@@ -37,7 +37,7 @@ const posts = [
     id: '13',
     title: 'Diablo 4',
     body: 'wow',
-    published: true,
+    published: false,
     author: '2'
   }
 ];
